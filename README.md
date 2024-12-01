@@ -12,3 +12,4 @@ A tool that automatically copies required DLL files to the executable's director
 
 - **dumpbin**: This tool requires [dumpbin](https://github.com/Delphier/dumpbin) to analyze dependencies.  
   Please download and add `dumpbin` to your system's `PATH` environment variable.
+- **.NET runtime**
